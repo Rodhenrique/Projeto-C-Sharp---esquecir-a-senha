@@ -1,0 +1,11 @@
+C:\Users\henri\Desktop\EsqueceuSenha\bin\Debug\netcoreapp3.1\EsqueceuSenha.exe
+C:\Users\henri\Desktop\EsqueceuSenha\bin\Debug\netcoreapp3.1\EsqueceuSenha.deps.json
+C:\Users\henri\Desktop\EsqueceuSenha\bin\Debug\netcoreapp3.1\EsqueceuSenha.runtimeconfig.json
+C:\Users\henri\Desktop\EsqueceuSenha\bin\Debug\netcoreapp3.1\EsqueceuSenha.runtimeconfig.dev.json
+C:\Users\henri\Desktop\EsqueceuSenha\bin\Debug\netcoreapp3.1\EsqueceuSenha.dll
+C:\Users\henri\Desktop\EsqueceuSenha\bin\Debug\netcoreapp3.1\EsqueceuSenha.pdb
+C:\Users\henri\Desktop\EsqueceuSenha\obj\Debug\netcoreapp3.1\EsqueceuSenha.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\EsqueceuSenha\obj\Debug\netcoreapp3.1\EsqueceuSenha.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\EsqueceuSenha\obj\Debug\netcoreapp3.1\EsqueceuSenha.AssemblyInfo.cs
+C:\Users\henri\Desktop\EsqueceuSenha\obj\Debug\netcoreapp3.1\EsqueceuSenha.dll
+C:\Users\henri\Desktop\EsqueceuSenha\obj\Debug\netcoreapp3.1\EsqueceuSenha.pdb
